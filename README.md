@@ -4,3 +4,4 @@
 - Is a application among React storefront and Woo project;
 - Did a complete ecommerce headless integration;
 - Using cache control to product and image information;
+- Third party Integrations: Braspag, Intelipost and PagSeguro;
